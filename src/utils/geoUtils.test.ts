@@ -1,4 +1,3 @@
-// src/utils/geoUtils.test.ts
 import { describe, it, expect } from 'vitest';
 import { calculateArea, calculateCentroid, formatArea } from './geoUtils';
 import type { Point } from '../types/aoi';

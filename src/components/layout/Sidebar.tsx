@@ -1,4 +1,3 @@
-// src/components/layout/Sidebar.tsx
 import { Upload, Pencil } from 'lucide-react';
 import { useMapContext } from '../../context/MapContext';
 import { useRef } from 'react';

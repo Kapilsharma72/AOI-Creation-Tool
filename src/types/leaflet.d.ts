@@ -1,4 +1,3 @@
-// src/types/leaflet.d.ts
 declare module 'leaflet' {
   namespace Control {
     interface DrawOptions {

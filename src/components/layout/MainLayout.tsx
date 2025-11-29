@@ -1,4 +1,3 @@
-// src/components/layout/MainLayout.tsx
 import React from 'react';
 import Sidebar from './Sidebar';
 import MapComponent from '../map/MapComponent';

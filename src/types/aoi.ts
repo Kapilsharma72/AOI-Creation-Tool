@@ -1,4 +1,3 @@
-// src/types/aoi.ts
 export type Point = [number, number]; // [longitude, latitude]
 export type Polygon = Point[];
 

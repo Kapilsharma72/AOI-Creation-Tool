@@ -1,4 +1,3 @@
-// src/components/aoi/AoiDetails.tsx
 import { useState, useEffect } from 'react';
 import { X, Save, Ruler, Calendar, MapPin, Edit2 } from 'lucide-react';
 import type { Aoi } from '../../types/aoi';

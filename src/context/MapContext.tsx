@@ -1,4 +1,3 @@
-// src/context/MapContext.tsx
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
 import type { Aoi } from '../types/aoi';
 

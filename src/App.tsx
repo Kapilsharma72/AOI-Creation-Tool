@@ -1,4 +1,3 @@
-// src/App.tsx
 import { MapProvider } from './context/MapContext';
 import MainLayout from './components/layout/MainLayout';
 
